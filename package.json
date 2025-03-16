@@ -27,5 +27,9 @@
     "eslint": "^9",
     "eslint-config-next": "15.2.2",
     "tailwindcss": "^4"
+  },
+  "engines": {
+    "node": "20"
   }
+
 }
